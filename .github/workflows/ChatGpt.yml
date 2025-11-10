@@ -16,5 +16,5 @@ jobs:
         with:
           OPENAI_ASSISTANT_ID: 'YOUR_ASSISTANT_ID_GOES_HERE'
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{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 }}
           OPENAI_API_KEY: ${{ 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}}
